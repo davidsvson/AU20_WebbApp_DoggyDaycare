@@ -11,7 +11,8 @@ JSON data:
 
 https://api.jsonbin.io/b/607eb43024143e5df089b745
 
-
+Skulle länken sluta att fungera så öppna ett eget konto på jsonbin.io
+och ladda upp dogs.json som finns här. 
 
 Inlämning
 Lägg upp ditt projekt på Github och publicera din app med hjälp av Github pages.
